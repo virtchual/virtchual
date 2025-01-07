@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello, World! I'm [virtchual] 
+# 👋 Hello, World! I'm virtchual 
 
 🚀 **Bug Bounty Hunter | Pentester | Security Researcher**  
 🛠️ **Problem Solver | Linux Enthusiast | FOSS Lover**  
