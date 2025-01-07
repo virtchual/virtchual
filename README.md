@@ -1,19 +1,5 @@
 ![Alt Text](https://i.pinimg.com/originals/32/c7/4c/32c74c10a76f90741ec78ab93cd7c7e6.gif)
 
-<!--
-**virtchual/virtchual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hello, World! I'm virtchual 
 
 🚀 **Bug Bounty Hunter | Pentester | Security Researcher**  
@@ -46,7 +32,7 @@ Welcome to my GitHub! I’m passionate about cybersecurity, solving complex chal
 - 🤝 Contributed to open-source security tools and Linux distributions.  
 
 ---
-<!--
+
 ## 📬 Let’s Connect  
 🌐 **Website/Portfolio:** [YourWebsite.com]  
 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
@@ -65,7 +51,7 @@ _A brief description of the project and its purpose._
 _An open-source tool to enhance security workflows._  
 
 ---
--->
+
 > 🌟 "In the end, it's not the tools, but the mindset that makes a great security researcher."  
 
-Feel free to explore my repositories and connect with me. Let's collaborate and secure the digital world together!  
+Feel free to explore my repositories and connect with me. Let's collaborate and secure the digital world together!
