@@ -1,4 +1,4 @@
-![Alt Text](https://i.pinimg.com/originals/32/c7/4c/32c74c10a76f90741ec78ab93cd7c7e6.gif) knknk
+![Alt Text](https://i.pinimg.com/originals/32/c7/4c/32c74c10a76f90741ec78ab93cd7c7e6.gif)
 
 # 👋 Hello, World! I'm virtchual 
 
