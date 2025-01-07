@@ -36,7 +36,7 @@ Welcome to my GitHub! I’m passionate about cybersecurity, solving complex chal
 ## 📬 Let’s Connect  
 🌐 **Website/Portfolio:** [https://virtchual.gitbook.io/bugbounty]  
 <!--🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  -->
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/virtchual)  
+🔗 **LinkedIn:** [virtchual_](https://linkedin.com/in/virtchual)  
 📧 **Email:** [virtchually@gmail.com](mailto:virtchually@gmail.com)  
 
 ---
