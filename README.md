@@ -34,13 +34,13 @@ Welcome to my GitHub! I’m passionate about cybersecurity, solving complex chal
 ---
 
 ## 📬 Let’s Connect  
-🌐 **Website/Portfolio:** [YourWebsite.com]  
-🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedIn)  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+🌐 **Website/Portfolio:** [https://virtchual.gitbook.io/bugbounty]  
+<!--🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  -->
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/virtchual)  
+📧 **Email:** [virtchually@gmail.com](mailto:virtchually@gmail.com)  
 
 ---
-
+<!--
 ## 📂 Featured Projects  
 Here are some projects I’m proud to share:  
 
@@ -51,7 +51,7 @@ _A brief description of the project and its purpose._
 _An open-source tool to enhance security workflows._  
 
 ---
-
+-->
 > 🌟 "In the end, it's not the tools, but the mindset that makes a great security researcher."  
 
 Feel free to explore my repositories and connect with me. Let's collaborate and secure the digital world together!
